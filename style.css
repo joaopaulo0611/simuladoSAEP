@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&display=swap');
+#semCad{
+  background-color: 0; 
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+body{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family:'League Spartan', sans-serif;
+    font-size: xx-large;
+    color: white;
+}
+.oscar{
+    border: solid;
+    width: 300px;
+    margin: 0 auto;
+    border-width: 2px;
+    background-color: #1e3d6b;
+    border-radius: 50px;
+    border: 0;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+.input{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: medium;
+    text-align: center;
+    font-family: 'League Spartan', sans-serif;
+    background-color:#3BBFB2;
+    border: 0;
+    margin: 5px;
+}
+button{
+    width: 100px;
+    height: 35px;
+    border-radius: 25px;
+    font-size: medium;
+    font-family: 'League Spartan'   , sans-serif;
+    border: 0;
+    background-color:#366fc4;
+    margin-bottom: 10%;
+    
+}
+input::placeholder {
+    color: black;
+}
+
+#cadastr{
+    font-size: medium;
+    font-family: 'League Spartan', sans-serif;
+    color: #F0F0F2;
+}
+.select{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50%;
+    margin-bottom: 10%;
+}
+.select2{
+    width: 40% ;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    
+
+}
+.select1{
+    width: 40% ;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-bottom: 8%;
+}
+.select2 input{
+   
+}
+.consultaAluno{
+    width: 40%;
+    margin-left: 5%;
+    border-radius: 25px 0;
+    border: 0;
+}
+.tConsultaAluno{
+    color: white;
+}
+.sConsultaAluno{
+    text-align: center;
+    font-family:'League Spartan', sans-serif;
+    font-size: medium;
+    justify-content: right;
+    margin-right: 31%;
+}
+.veigh{
+    width: 200px;
+    width: 150px;
+    font-size: 20px;
+}
+.sairB{
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+.excluir{
+    background-color: #1e3d6b;
+    color: white;
+}
+.luiza{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+}
